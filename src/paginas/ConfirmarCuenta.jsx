@@ -15,6 +15,7 @@ const confirmarCuenta = () => {
 
     //UseEffect executa el setup code la primera vegada que s'executa. Després, cada vegada que un dels atributs canvia, es torna a executar (en aquest cas el useEffect no te atributs)
     useEffect(() => {
+        console.log('Confirmar Cuenta');
         const confirmarCuenta = async () => {
             try {
                 
