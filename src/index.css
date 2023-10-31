@@ -1,0 +1,9 @@
+
+/* Afegir això */
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+/* Instalar també l'extensió de "Tailwind CSS IntelliSense */
